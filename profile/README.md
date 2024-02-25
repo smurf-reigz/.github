@@ -1,12 +1,7 @@
-## Hi there 👋
+## 🌭 This account is strictly for my security research that I don't post on my main GitHub Page <https://github.com/reigz>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to browse, lol -> what you can find here:
+1. CVE Proof-of-Concepts that I authored but I don't find the value (low hanging fruits).
+2. Code Dumps that I might come back later to.
+3. Fun stuff that I won't be working soon.
+4. List might change in the future, depends 😉 
