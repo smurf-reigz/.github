@@ -9,6 +9,6 @@ Feel free to browse, lol -> what you can find here:
 4. List might change in the future, depends 😉 
 
 <p align="center"><b>
-🌭 Current CVEs 🌭 <br/> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">CVE-2024-1923]</a>
+🌭 Current CVEs 🌭 <br/> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">[CVE-2024-1923]</a>
 
 </b></p>
