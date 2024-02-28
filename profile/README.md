@@ -1,5 +1,5 @@
 <p align="center"><b>🌭 This account is strictly for my security research 
-that I don't post on my [main](https://github.com/reigz) GitHub! 🌭</b></p>
+that I don't post on my <a href="https://github.com/reigz">[main]</a> GitHub! 🌭</b></p>
 
 Feel free to browse, lol -> what you can find here:
 1. [CVE Proof-of-Concepts](https://github.com/smurf-reigz/security/tree/main/proof-of-concepts) that I authored but I don't find the value (low hanging fruits or opensource projects that don't have a lot of 🌟).
