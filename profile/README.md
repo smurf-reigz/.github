@@ -11,5 +11,6 @@ Feel free to browse, lol -> what you can find here:
 <p align="center"><b>
 🌭 Current CVEs 🌭
 </b></p>
+
 [CVE-2024-1923](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923)
 
