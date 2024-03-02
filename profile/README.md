@@ -11,7 +11,7 @@ Feel free to browse, lol -> what you can find here:
 <p align="center"><b>
 🌭 Current CVEs 🌭 <br/> 
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">[CVE-2024-1923]</a><br/> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">[CVE-2024-1923]</a><br/> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">[CVE-2024-1923]</a><br/> 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1923">[CVE-2024-1923]</a><br/> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2069">[CVE-2024-2069]</a><br/> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2070">[CVE-2024-2070]</a><br/> 
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2072">[CVE-2024-2072]</a><br/> 
 </b></p>
